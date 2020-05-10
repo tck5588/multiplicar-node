@@ -34,7 +34,6 @@ let listarTabla = (base, limite = 10)=>{
 
 
 
-
 let crearArchivo = (base, limite = 10)=> {
 
 return new Promise((resolve, reject)=>{
